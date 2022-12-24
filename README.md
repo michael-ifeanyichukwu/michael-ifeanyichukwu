@@ -5,7 +5,8 @@
 - 📫 you can reach me, on the following handles: 
 - twitter @ifeany_obidike,
 - instagram @themikeifeanyichukwu,
-  I am looking forward to working with you :-).
+- https://www.linkedin.com/in/ifeanyichukwu-obidike-532200199/
+- I am looking forward to working with you :-).
 
 <!---
 michael-ifeanyichukwu/michael-ifeanyichukwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
