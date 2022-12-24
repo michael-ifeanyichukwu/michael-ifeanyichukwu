@@ -1,7 +1,7 @@
 - Hi, michael-ifeanyichukwu here,
 - 👀 I Am a tech enthusiaste,
 - 🌱 I am currently learning programming (c++, rust, MATLAB, tensorflow),
-- 💞️ I am looking forward to collaborating with you on tech related researches and also programming projects. 
+- 💞️ I am looking forward to collaborating with you on any tech related researches and also programming projects. 
 - 📫 you can reach me, on the following handles: 
 - twitter @ifeany_obidike,
 - instagram @themikeifeanyichukwu,
